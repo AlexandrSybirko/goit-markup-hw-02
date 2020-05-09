@@ -1,0 +1,14 @@
+.logo-left {
+  color: #2196f3;
+}
+.logo-riht {
+  color: #212121;
+}
+.page-header li a:hover,
+.page-header li a:focus {
+  color: #2196f3;
+}
+.nav a:active {
+  color: #2196f3;
+  text-decoration: underline;
+}
