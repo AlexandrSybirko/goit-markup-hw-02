@@ -1,14 +1,70 @@
+.list {
+  list-style: none;
+}
 .logo-left {
   color: #2196f3;
 }
 .logo-riht {
   color: #212121;
 }
-.page-header li a:hover,
-.page-header li a:focus {
+.nav-left :hover,
+.nav-left :focus {
   color: #2196f3;
 }
-.nav a:active {
+
+.nav-left a:active {
   color: #2196f3;
-  text-decoration: underline;
+}
+.nav-left {
+  color: #212121;
+}
+
+.nav-riht a:hover,
+.nav-riht a:focus {
+  color: #2196f3;
+}
+.nav-riht {
+  color: #757575;
+}
+.page-header {
+  background-color: #ffffff;
+}
+.hero {
+  background-color: rgba(47, 48, 58, 0.8);
+}
+.hero-title {
+  color: #ffffff;
+}
+.section {
+  background-color: #e5e5e5;
+}
+.section-title {
+  color: #212121;
+}
+.comand {
+  background-color: #f5f4fa;
+}
+.section-text {
+  color: #757575;
+}
+.section-title2 {
+  color: #212121;
+}
+.link {
+  color: #ffffff;
+  background-color: rgba(47, 48, 58, 0.8);
+}
+.link :hover,
+.link :focus {
+  color: #2196f3;
+}
+footer {
+  color: #ffffff;
+  background-color: #2f303a;
+}
+.logo-riht2 {
+  color: #ffffff;
+}
+.footer-link {
+  color: rgba(255, 255, 255, 0.6);
 }
