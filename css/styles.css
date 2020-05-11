@@ -164,6 +164,11 @@ body {
 .button {
   color: #212121;
   background-color: #f5f4fa;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
 }
 .button:hover,
 .button:focus {
